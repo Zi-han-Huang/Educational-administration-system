@@ -1,5 +1,9 @@
 # Educational-administration-system
 Software Engineering coursework2 of UofGlasgow
+## Run the program
+Just place the files in the following hierarchy and run GUI.java
+
+![image](https://user-images.githubusercontent.com/77929543/148650015-0425c6c5-2d53-4134-9125-a1512159fdb4.png)
 ## User story 1
 Description:
 As a class director, I want to log in with right access which can read and write the Requirement List, as well as the Teacher List.
